@@ -1,0 +1,106 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Label4.Text" xml:space="preserve">
+    <value>The Rules:
+
+The game lasts 10 years, with a year being one turn.
+Each year, enter how many bushels of grain to allocate to buying (or selling) acres of land, feeding 
+your population, and planting crops for the next year.
+Each person needs 20 bushels of grain each year to live and can till at most 10 acres of land.
+Each acre of land requires one bushel of grain to plant seeds.
+The price of each acre of land fluctuates from 17 bushels per acre to 26 bushels.
+If the conditions in your country ever become bad enough, the people will overthrow you and you
+won't finish your 10 year term.
+If you make it to the 11th year, your rule will be evaluated and you'll be ranked against great figures
+in history.</value>
+  </data>
+  <data name="RichTextBox1.Text" xml:space="preserve">
+    <value>Hammurabi: I beg to report to you,
+In Year 1, 0 people starved.
+5 people came to the city.
+The city population is now 100.
+The city now owns 1000 acres.
+You harvested 3 bushels per acre.
+Rats ate 200 bushels.	 
+You now have 2800 bushels in store.	
+2800 bushels remaining
+Land is trading at 21 bushels per acre.
+</value>
+  </data>
+  <metadata name="FolderBrowserDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="Label6.Text" xml:space="preserve">
+    <value>Les regles:
+
+El joc dura 10 anys, amb torns d'un any.
+Cada any, introduïu quants bushels de gra destinareu a comprar (o vendre) acres de terra, 
+alimentar la teva població i plantant cultius per l'any vinent.
+Cada persona necessita 20 bushels de gra cada any per viure i pot conrear com a màxim
+10 acres de terra.
+Cada acre de terra requereix un bushel de gra per plantar llavors.
+El preu de cada acre de terra oscil·la entre 17 bushels per acre a 26 bushels.
+Si les condicions al teu país són prou dolentes, la gent t'enderrocarà i no acabaràs el teu
+mandat de 10 anys.
+Si arribeu a l'11è any, el vostre regnat s'avaluarà i se us classificarà comparat amb les grans
+figures de l'història.
+</value>
+  </data>
+</root>
