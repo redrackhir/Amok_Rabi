@@ -57,20 +57,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Label4.Text" xml:space="preserve">
-    <value>The Rules:
-
-The game lasts 10 years, with a year being one turn.
-Each year, enter how many bushels of grain to allocate to buying (or selling) acres of land, feeding 
-your population, and planting crops for the next year.
-Each person needs 20 bushels of grain each year to live and can till at most 10 acres of land.
-Each acre of land requires one bushel of grain to plant seeds.
-The price of each acre of land fluctuates from 17 bushels per acre to 26 bushels.
-If the conditions in your country ever become bad enough, the people will overthrow you and you
-won't finish your 10 year term.
-If you make it to the 11th year, your rule will be evaluated and you'll be ranked against great figures
-in history.</value>
-  </data>
   <data name="RichTextBox1.Text" xml:space="preserve">
     <value>Hammurabi: I beg to report to you,
 In Year 1, 0 people starved.
@@ -87,20 +73,58 @@ Land is trading at 21 bushels per acre.
   <metadata name="FolderBrowserDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <data name="Label6.Text" xml:space="preserve">
-    <value>Les regles:
-
-El joc dura 10 anys, amb torns d'un any.
-Cada any, introduïu quants bushels de gra destinareu a comprar (o vendre) acres de terra, 
-alimentar la teva població i plantant cultius per l'any vinent.
-Cada persona necessita 20 bushels de gra cada any per viure i pot conrear com a màxim
-10 acres de terra.
-Cada acre de terra requereix un bushel de gra per plantar llavors.
-El preu de cada acre de terra oscil·la entre 17 bushels per acre a 26 bushels.
-Si les condicions al teu país són prou dolentes, la gent t'enderrocarà i no acabaràs el teu
-mandat de 10 anys.
-Si arribeu a l'11è any, el vostre regnat s'avaluarà i se us classificarà comparat amb les grans
-figures de l'història.
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="PictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAA
+        6QAAAOkBVJIUSwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAI0SURBVFhHtZc7
+        7w1BHIYPEYWeKEioFIJItBTiI6CRkLgUgo9AfAJaERKlCEHr2omO2l2hI3Ep3C/Pszm/zRi7Z2/jTZ6c
+        M/Ob/7zvzs7Z/84s02a4AK/gG/wewE+4Bk3aDtfBeR/BWVgJtZbAaXCSpsn7YuhlkOow/IB87AtYBZU0
+        T4tP4AZcGcBl2AepNE8v6iG8TtrnoFr2GPQJDkEJpeZ+HgG1AiLEGzsuzhvyv8xtp3oA1t7bcGPYeGqj
+        gLrMXQlrctuO2O3e86nqMk/rbswdUKdxI03REPO/6iUCHISY/BcchVQL61MDTDJXUwJMNldjAxQxV2MC
+        TDXfA5/hko2hAUpcuY9t644bFKCEudIrfOsvXQFKmavBAUqaq0EBDkBM7mfvJ9wC9Q6wDb5C2+RjzFXv
+        AHcg6sfsSDTWXPUKsBrC4K4dibrM18JV+Agxfxv1lzzALohaevXHocv8HcTfLsINWzfyALshamfgBNxP
+        +prMlVceY3wDdt4c34SsG7QebCGVj8uo5XyB/dCkWPbHsNSOTK7Qd3DMPTti0jzAFoilDmzfgq3Qprb5
+        1HJwP8WYagUXvZIZwpWQnVC/xy9QWwDNb0LUvT3VGeLlvKPUS2lTgNzc1/H1UMmjWBT22jFRMVcEaDLf
+        ALU2QRydPJh4XzyqjVUaYA2k9/wf89ApiEHyDIYezYKY4wPEbpdWc+UVn4SmQ2QJ3HDroFMb4Tw8h/gn
+        NJa34O/cW5qfmOeazf4ApSC9xF2NlGQAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="PictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAZCAYAAABQDyyRAAABhmlDQ1BJQ0MgcHJvZmlsZQAAKM+VkT1I
+        w1AUhU9TpSIVQTuIOGSoThZERQUXiWIRLJS2QqsOJi/9gyYNSYqLo+BacPBnserg4qyrg6sgCP6AuLo4
+        KbpIifclhRahghce7+O8dw733QcItRLTrI4xQNNtMxGVxHRmVQy8wocg+jCLaZlZRiy5mELb+rqn21R3
+        EZ6F/1WPmrUY4BOJ55hh2sQbxFObtsF5nzjECrJKfE48alKDxI9cVzx+45x3WeCZITOVmCcOEYv5FlZa
+        mBVMjXiSOKxqOuULaY9VzluctVKFNfrkLwxm9ZUk12kNIYolxBCHCAUVFFGCjQjtOikWEnQutfEPuv44
+        uRRyFcHIsYAyNMiuH/wPfs/Wyk2Me0lBCeh8cZyPYSCwC9SrjvN97Dj1E8D/DFzpTX+5Bsx8kl5tauEj
+        oHcbuLhuasoecLkDDDwZsim7kp+WkMsB72f0TRmg/xboXvPm1jjH6QOQolkt3wAHh8BInrLX27y7q3Vu
+        f95x5wfpB/ugct4F5OcQAAAACXBIWXMAAAsMAAALDAE/QCLIAAAAB3RJTUUH5wEMEwE4n1qDZAAAAxpJ
+        REFUSEutllerFEEQRldFURQxRxTBgBGMKJhFRcxZMYFZzDknzIIBA4qK6JNgAP0Vviv4fzynZnvvMHd3
+        dWE+OHen5nao7q6qnkoL2lP9/R8dqP6WpoHwAtaG1Vwbwbb9wypJveEVrAyrudbAW+gZVklaAN/hXljN
+        9QB+wJywStJZWAqHw2rTYFiRPdZ0CObBsbBK0m44CI/CatNEeAMXw8r0FHR0W1glaRC4on1htUkHHsLH
+        sDLtBx3oFlZJGgdbwcHzMjXPQ5ewMpmCe2FIWCVpCiyElN8d4AJMB3fhOnQGZRvT1felaSrMguTAaRie
+        PYasEzeyx1oQ6nTLMtrraRq4WgefBOZ6UU46F3ROZ3W6nk5Wf9vJQPsC9QY3/6/CJzAOOkI9OflXsO1t
+        XxS0ARyjXZWcAR9gFNwCzzcvHbgGn2E9jAajPI9BtwtchG3TkSRdAt+NBeeaDDW59auzx8piWAJuddIZ
+        uAymW1f4Cd8K/ALLr21sexSSXOAisKKqVWCbkMH0HFLHl/AMrHxGu3JXrAPvwqpUHoNBZhXcUX2+CX3B
+        e+AEpB3wuJaDY1qknOM9eGENg3hw9XfBQHOLLS5O6P+83ax0ll1tM8EjWgdWxy1gXFgtT8ETGAnGw2Z4
+        DQav75eBcziXc7rY+KdyUD2aD5vAI7CD5Vfve0AqRDqUzxgDV6f7gE4Z0O6S71zQGNgJTu4cqXTHMSUH
+        7CiuLO/AcXDVHscVML3cXtsmmaZe1xYrA7A72McJ8g4YX86X5jzin2R4znq4Heo5oKx4tmnmgLGg7OME
+        eQeMGfvfBxUOmGIOYIAZUOawx+HZuoJz4GRGsUHkYL/BAe0nBuwfcHDP3LZeXB6T/d1Vd8bgdA4D3n5+
+        O0TNNk0aYfHwsjFvTUFrwHgotnPyEWBNsK1H5k4W2+WZAA3lZ5gDGFBJRrVH1EjGh3Gio8qgNIsGhNWC
+        zARre5I74LU7M6zmctI7kL+sHMtj+aes0a6yX1iZhoIDtrIKt99Lx6BM6gUep/WkrvS4+CHpWVtQOoXV
+        uiy5xU/52WCsoErlLwdOhrOFkF1zAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="ImgClose.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAAOsAAADrASts18IAAAAZdEVYdFNvZnR3YXJlAHd3dy5pbmtzY2FwZS5vcmeb7jwa
+        AAAA+UlEQVRYR8WXSw7CMAxEe73uWIBYwOnhGCCBHWUqGpISxx76pJFoi/qmv0iehFlyzznoDjLqgE/d
+        6ccr5yE5S1joudUBn7pXBZglSrnmJkm3pDwQXaIm1+3lkR8l5R+ekqvEy0lSO/dFsoJRolsOIkuY5SCi
+        xLAceEq45WCkRJgcWEqEy0FPCZocbJWgy0FrNavtYyzlidqd+AzlyktaJf4iV2rPHAV61gkXLTlCLbHr
+        S7j1qVkWqyF6vnNaCcsiE17CIgdhJUbkwF3CIwfDJSLkwFwiUg66SzDk4GeJ3QeTPUezr9mQJQdliTQb
+        YjzXjWVWI6KO7JvmN6XaREQu5zRtAAAAAElFTkSuQmCC
 </value>
   </data>
 </root>
